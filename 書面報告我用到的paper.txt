@@ -1,0 +1,30 @@
+提醒：藍字就是ref的地方，到時候要照他作法換成可以點的超連結！
+http://www.adamwesterski.com/wp-content/files/docsCursos/sentimentA_doc_TLAW.pdf
+https://aclanthology.org/2020.coling-main.393/
+BERT: https://arxiv.org/abs/1810.04805
+XLNet: https://arxiv.org/abs/1906.08237
+https://arxiv.org/abs/1811.00207
+
+http://humir.cs.hacettepe.edu.tr/file/AkbaFUcanA.pdf
+http://dx.doi.org/10.1109/SIU.2013.6531173
+http://dx.doi.org/10.1145/2502069.2502078
+http://dx.doi.org/10.1109/WI-IAT.2012.115
+
+https://ieeexplore.ieee.org/document/9074166/authors#authors
+
+https://www.researchgate.net/profile/Karel-Jezek-2/publication/250030718_Influence_of_Word_Normalization_on_Text_Classification/links/02e7e53c7801f7cfc6000000/Influence-of-Word-Normalization-on-Text-Classification.pdf
+
+https://iopscience.iop.org/article/10.1088/1742-6596/1651/1/012039/pdf
+
+NLTK: Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python: analyzing text with the natural language toolkit. " O&#x27;Reilly Media, Inc."
+
+Wordnet: Fellbaum C (1998). WordNet: An Electronic Lexical Database. Bradford Books.
+
+翻譯API: https://pypi.org/project/googletrans/
+
+(文章): https://medium.com/analytics-vidhya/evolution-of-nlp-part-4-transformers-bert-xlnet-roberta-bd13b2371125
+https://ieeexplore.ieee.org/abstract/document/9317379
+
+https://www.researchgate.net/publication/350978604_Fault_detection_in_Electrical_Power_Transmission_System_using_Artificial_Neural_Network
+
+BBERT: https://arxiv.org/pdf/1810.04805.pdf
